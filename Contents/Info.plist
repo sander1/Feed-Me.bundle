@@ -23,6 +23,8 @@
 		<string>M4V</string>
 		<string>MP3</string>
 	</array>
+	<key>PlexClientPlatforms</key>
+	<string>*</string>
 	<key>PlexPluginMode</key>
 	<string>AlwaysOn</string>
 </dict>
